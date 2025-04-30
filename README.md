@@ -1,5 +1,5 @@
 
-# 🌍🔊 Seismic Event Classification & Magnitude Prediction using Deep Learning
+# 🌍🔊 Seismic Event Classification & Magnitude Prediction using Deep Learning  :   https://tremor-wave-oracle.lovable.app/
 
 Welcome to an exciting and impactful AI project that bridges **machine learning**, **earth sciences**, and **disaster resilience**! In this project, we build a **multi-task deep learning model** to classify seismic events and predict their magnitudes from raw waveform data. 🌋🧠📈
 
